@@ -21,7 +21,9 @@
 
 Ниже пример кода из нашего приложения:
 
-```.selector {
+```javascript
+.selector {
   font-family: "Awesome", Arial, sans-serif;
   color: red;
-```}
+}
+```
