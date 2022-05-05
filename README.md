@@ -8,6 +8,8 @@
 * Высокая скорость поиска
 * Низкая цена
 
+Логотип:
+
 ![](https://netology-code.github.io/git-homeworks/introduction/assets/logo.png)
 
 Мы на столько крутые, что уже успели поработать со следующими команиями:
@@ -19,7 +21,7 @@
 
 Ниже пример кода из нашего приложения:
 
-".selector {
-"  font-family: "Awesome", Arial, sans-serif;
-"  color: red;
-}
+```.selector {
+  font-family: "Awesome", Arial, sans-serif;
+  color: red;
+```}
